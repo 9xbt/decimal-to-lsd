@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'SGI';
+    src: url("assets/SGI-Bold.ttf") format(truetype);
+    font-weight: bold;
+}
+
+body {
+    font-family: 'SGI';
+}
